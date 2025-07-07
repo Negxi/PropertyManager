@@ -1,0 +1,25 @@
+# ┌───────────────────────────────────────┐
+# │         PropertyManager Plugin        │
+# │     Allows you to freely change       │
+# │           server settings             │
+# │          by Negxi - v1.0.0            │
+# └───────────────────────────────────────┘
+
+name: PropertyManager
+main: Negxi\First
+version: 1.0.0
+api: 5.0.0
+author: Negxi
+description: >
+  PropertyManager allows you to freely change and manage Minecraft game rules.
+  Important: This plugin changes game rule settings visually for the client only.
+  It does not modify server-side game mechanics or behavior.
+  (For example: Even if you disable TNT explosions, the server will still process TNT damage unless blocked by other server-side plugins.)
+  
+
+website: https://github.com/Negxi/PropertyManager
+license: MIT
+
+permissions:
+  gamerule.permission:
+    default: op

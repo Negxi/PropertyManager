@@ -1,0 +1,44 @@
+# ┌───────────────────────────────────────┐
+# │          PropertyManager Config       │
+# │       Server Game Rules Settings      │
+# └───────────────────────────────────────┘
+
+World-Options:
+  # Allow players to attack each other
+  Friendly-Fire: true
+
+  # Display player coordinates on screen
+  Show-Coordinates: false
+
+  # Show the locator bar (compass) at the top of the screen
+  Locator-Bar: false
+
+  # Display the number of days played
+  Show-Days-Played: false
+
+  # Allow fire to spread
+  Fire-Spreads: true
+
+  # Unlock all recipes by default
+  Recipes-Unlock: true
+
+  # Enable TNT explosions
+  TNT-Explodes: true
+
+  # Allow respawn anchors and beds to explode
+  Respawn-Blocks-Explode: true
+
+  # Allow mobs to drop items
+  Mob-Loot: true
+
+  # Enable natural regeneration (automatic health recovery when full hunger)
+  Natural-Regeneration: false
+
+  # Allow items to drop when breaking blocks
+  Tile-Drops: true
+
+  # Enable sleeping in beds
+  Beds-Work: true
+
+  # Players instantly respawn (skip the respawn screen)
+  Immediate-Respawn: false
