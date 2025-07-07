@@ -10,7 +10,7 @@ World-Options:
   # Display player coordinates on screen
   Show-Coordinates: false
 
-  # Show the locator bar (compass) at the top of the screen
+  # Show the locator bar (xp bar) at the top of the screen
   Locator-Bar: false
 
   # Display the number of days played
